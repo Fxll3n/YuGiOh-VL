@@ -18,4 +18,4 @@ Features I wish to finish soon
 * Playing Field
 * Rules preventing inacurate moves.
 * 3D models for every card.
-  * This is to further immerse the player in the game by making visual representations of monsters, spells, traps, and etc. I will most likely hire a 3D modeler. (Reach out if you are one and are willing to work free because im broke!)
+ * This is to further immerse the player in the game by making visual representations of monsters, spells, traps, and etc. I will most likely hire a 3D modeler. (Reach out if you are one and are willing to work free because im broke!)
